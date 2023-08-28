@@ -1,0 +1,19 @@
+h1{
+  color: blue;
+}
+.container{
+  position: absolute;
+    top: 10%;
+    left: 40%;
+    margin-top: -50px;
+    margin-left: -50px;
+    border: 2px solid red;
+
+}
+
+.inputtag{
+  margin-left: 34px;
+}
+.inner{
+  margin-left: 97px;
+}
